@@ -7,7 +7,7 @@ function add (a,b){
 // function expression 
 
 const add2 = function(a,b){
-    return a + b;
+   return a + b;
 }
 console.log(add2);
 
